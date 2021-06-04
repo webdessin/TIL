@@ -133,7 +133,7 @@ $ git add .
 $ git status
 $ git commit -m 'ADD README.md'
 $ git push origin master
-$ git remote add origin https://github.com/webdessin/practice1.git
-$ git push -u origin main
+$ git remote add origin https://github.com/webdessin/TIL.git
+$ git push -u origin master
 ```
 
